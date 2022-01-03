@@ -13,6 +13,10 @@ go get -u github.com/Yefhem/basic-api-with-go
 - gorm.io/driver/postgres
 - gorm.io/gorm  
 
+## Scheme
+
+![alt text](./img/1.jpeg)
+
 ## Run
 
 in project directory:
